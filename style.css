@@ -75,7 +75,7 @@ dt {
     margin: 5px 0;
 }
 
-.group-form input[type=submit]{
+.group-form input[type=button]{
     background: #1B356E;
     font-weight: 900;
     font-size: 1rem;
@@ -103,4 +103,19 @@ dt {
     font-weight: 500;
     font-size: 1rem;
     text-align: center;
+}
+button {
+    background: #1B356E;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #CCC;
+    font-family: Poppins;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin: 5px 0;
+
+}
+a {
+    text-decoration: none;
+    color: inherit;
 }
